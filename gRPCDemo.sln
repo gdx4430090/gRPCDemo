@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPCDemo", "gRPCDemo\gRPCDemo.csproj", "{9F644F3D-F127-4265-97CA-AF82A3B5BA73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPCServer", "gRPCServer\gRPCServer.csproj", "{4E518115-D66D-46E4-B1C7-165D1F465D8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPCClient", "gRPCClient\gRPCClient.csproj", "{EFCE69B8-BFB0-46A1-83B8-16BA50E934EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F644F3D-F127-4265-97CA-AF82A3B5BA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F644F3D-F127-4265-97CA-AF82A3B5BA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F644F3D-F127-4265-97CA-AF82A3B5BA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F644F3D-F127-4265-97CA-AF82A3B5BA73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E518115-D66D-46E4-B1C7-165D1F465D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E518115-D66D-46E4-B1C7-165D1F465D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E518115-D66D-46E4-B1C7-165D1F465D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E518115-D66D-46E4-B1C7-165D1F465D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFCE69B8-BFB0-46A1-83B8-16BA50E934EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCE69B8-BFB0-46A1-83B8-16BA50E934EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCE69B8-BFB0-46A1-83B8-16BA50E934EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCE69B8-BFB0-46A1-83B8-16BA50E934EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
